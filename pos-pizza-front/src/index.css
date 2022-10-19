@@ -1,0 +1,15 @@
+* {
+  /* user-select: none; */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-height: 100vh;
+}
+
+@font-face {
+  font-family: 'FutureLight';
+  src: url('./assets/fonts/Future\ Light.ttf') format('truetype');
+}

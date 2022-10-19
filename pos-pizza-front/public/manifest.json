@@ -1,0 +1,9 @@
+{
+  "short_name": "POS Pizza",
+  "name": "Project 2 - POS Pizza",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
